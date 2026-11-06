@@ -1,6 +1,6 @@
 cask "airdrive" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0"
+  sha256 "696643e9a8954e2baed60a460644841fd344314e8d258da0cc45d452a727722d"
 
   url "https://github.com/radsadowski/airdrive/releases/download/v#{version}/AirDrive.dmg"
   name "AirDrive"
