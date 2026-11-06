@@ -1,8 +1,8 @@
 cask "airdrive" do
-  version :latest
-  sha256 :no_check
+  version "0.0.0"
+  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
-  url "https://github.com/radsadowski/airdrive/releases/latest/download/AirDrive.dmg"
+  url "https://github.com/radsadowski/airdrive/releases/download/v#{version}/AirDrive.dmg"
   name "AirDrive"
   desc "Unified file manager for local folders, Google Drive, and S3-compatible storage"
   homepage "https://github.com/radsadowski/airdrive"
