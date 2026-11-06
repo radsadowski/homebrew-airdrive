@@ -1,11 +1,11 @@
 # homebrew-airdrive
 
-Homebrew tap for [AirDrive](https://github.com/radekska/airdrive).
+Homebrew tap for [AirDrive](https://github.com/radsadowski/airdrive).
 
 ## Usage
 
 ```sh
-brew tap radekska/airdrive
+brew tap radsadowski/airdrive
 brew install --cask airdrive
 ```
 
